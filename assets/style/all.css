@@ -817,10 +817,10 @@ select {
   background-color: rgb(100 195 191 / var(--tw-bg-opacity));
 }
 .bg-createAreaImage {
-  background-image: url('/assets/images/main_img.png');
+  background-image: url('https://brook072.github.io/2022JavaScriptTrainingWeek5/assets/images/main_img.png');
 }
 .bg-createAreaSlogan {
-  background-image: url('/assets/images/logo.png');
+  background-image: url('https://brook072.github.io/2022JavaScriptTrainingWeek5/assets/images/logo.png');
 }
 .bg-contain {
   background-size: contain;
